@@ -1,6 +1,6 @@
-# Stabot: NFL Player Data Discord Bot
+# Statbot: NFL Player Data Discord Bot
 
-Stabot is a Discord bot designed to bring NFL fans closer to the game by providing instant access to both current and historical player data. Whether you're looking for the latest stats on your favorite quarterback or diving into historical performances, Stabot has you covered.
+Statbot is a Discord bot designed to bring NFL fans closer to the game by providing instant access to both current and historical player data. Whether you're looking for the latest stats on your favorite quarterback or diving into historical performances, Statbot has you covered.
 
 ## Features
 
@@ -18,13 +18,13 @@ Stabot is a Discord bot designed to bring NFL fans closer to the game by providi
 
 ### Installation
 
-1. Invite Stabot to your Discord server by clicking on this https://discord.com/api/oauth2/authorize?client_id=1159784834458206278&permissions=277025512512&scope=bot(#).
+1. Invite Statbot to your Discord server by clicking on this https://discord.com/api/oauth2/authorize?client_id=1159784834458206278&permissions=277025512512&scope=bot(#).
 2. Ensure you have the necessary permissions on your Discord server to add bots.
-3. Follow the on-screen instructions to authorize Stabot on your server.
+3. Follow the on-screen instructions to authorize Statbot on your server.
 
 ### Configuration
 
-- Use `$stabothelp` for help using Statbot.
+- Use `$statbothelp` for help using Statbot.
 
 ## Commands
 
@@ -37,7 +37,7 @@ Stabot is a Discord bot designed to bring NFL fans closer to the game by providi
 ## Usage Example
 
 User: $statbot Geno Smith 17 passing_yards 2023
-Stabot: Geno Smith Passing Yards
+Statbot: Geno Smith Passing Yards
 Passing Yards: 290.00
 
 
